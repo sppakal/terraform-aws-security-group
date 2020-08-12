@@ -1,4 +1,4 @@
-# AWS EC2-VPC Security Group Terraform module
+# AWS EC2-VPC Security Group Terraform module.
 
 [![Help Contribute to Open Source](https://www.codetriage.com/terraform-aws-modules/terraform-aws-security-group/badges/users.svg)](https://www.codetriage.com/terraform-aws-modules/terraform-aws-security-group)
 
